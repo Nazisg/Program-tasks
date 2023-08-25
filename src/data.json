@@ -1,0 +1,58 @@
+{
+    "program_types": [
+        {
+            "key": "ms-office",
+            "name": "MS-Office",
+            "items": [
+                {
+                    "key": "word",
+                    "name": "MS-Word"
+                },
+                {
+                    "key": "excel",
+                    "name": "MS-Excel"
+                },
+                {
+                    "key": "powerpoint",
+                    "name": "MS-Powerpoint"
+                }
+            ]
+        },
+        {
+            "key": "programming-languages",
+            "name": "Programlaşdırma dilləri",
+            "items": [
+                {
+                    "key": "python",
+                    "name": "Python"
+                },
+                {
+                    "key": "java",
+                    "name": "Java"
+                },
+                {
+                    "key": "ts",
+                    "name": "Javascript"
+                }
+            ]
+        },
+        {
+            "key": "design-programs",
+            "name": "Dizayn programları",
+            "items": [
+                {
+                    "key": "figma",
+                    "name": "Figma"
+                },
+                {
+                    "key": "canva",
+                    "name": "Canva"
+                },
+                {
+                    "key": "photoshop",
+                    "name": "Photoshop"
+                }
+            ]
+        }
+    ]
+}
